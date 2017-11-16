@@ -17,7 +17,7 @@ class App extends Component {
     const { c1, c2 } = this.state
 
     return (
-      <div className="p2 mx-auto" style={{ maxWidth: 650 }}>
+      <div className="p2 mx-auto" style={{ maxWidth: 660 }}>
         <Header />
         <CompareCities
           c1={c1}

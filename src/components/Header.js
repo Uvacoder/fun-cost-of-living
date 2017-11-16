@@ -14,7 +14,7 @@ const Header = () => (
       </span>
     </div>
     <h1 className="mt1 mb0 h2">Cost of living around the world</h1>
-    <p className="m0 h5 sm-col-10">
+    <p className="m0 sm-col-9">
       Based on prices of 160 goods and services in 133 cities collected by{' '}
       <a
         target="_blank"
@@ -23,8 +23,8 @@ const Header = () => (
       >
         The Economist
       </a>{' '}
-      | Code on <a href="#!">GitHub</a> | Made by{' '}
-      <a href="https://twitter.com/brensudol">brensudol</a>
+      | Code on{' '}
+      <a href="https://github.com/brendansudol/cost-of-living">GitHub</a>
     </p>
   </header>
 )
